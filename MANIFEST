@@ -1,0 +1,10 @@
+CHANGES
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+cpanfile
+lib/XML/Ordered.pm
+lib/XML/Ordered/Reader.pm
+t/reader.t
